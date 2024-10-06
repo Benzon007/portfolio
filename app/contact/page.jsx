@@ -20,17 +20,17 @@ const info = [
   {
     icon: <FaPhoneAlt />,
     title: "Phone",
-    description: "(+91) 23424234",
+    description: "(+91) 8714535642",
   },
   {
     icon: <FaEnvelope />,
     title: "E-mail",
-    description: "benz@gmail.com",
+    description: "bensonphilip911@gmail.com",
   },
   {
     icon: <FaMapMarkerAlt />,
     title: "Address",
-    description: "(+91) 23424234",
+    description: "Kerala, India",
   },
 ];
 
