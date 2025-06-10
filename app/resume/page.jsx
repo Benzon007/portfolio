@@ -32,10 +32,6 @@ const about = {
       fieldvalue: "2+ years",
     },
     {
-      fieldName: "Discord",
-      fieldvalue: "bENZ ",
-    },
-    {
       fieldName: "Nationality",
       fieldvalue: "Indian",
     },
@@ -68,7 +64,7 @@ const experience = {
     },
     {
       company: "AIESEC in Jalandhar",
-      position: "Head of Incoming Corporate & Teaching Sector",
+      position: "Head of Incoming Exchanges",
       duration: "2025-present",
     },
     {
