@@ -58,13 +58,13 @@ const experience = {
   icon: "/assets/resume/badge.svg",
   title: "My experience",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia aspernatur ipsam debitis omnis.",
+    "Here you will find my experience",
 
   items: [
     {
       company: "AIESEC in Jalandhar",
-      position: "Senior Manager-iGTa/Te",
-      duration: "2024-present",
+      position: "Head of Incoming Corporate & Teaching Sector",
+      duration: "2025-present",
     },
     {
       company: "SITER",
