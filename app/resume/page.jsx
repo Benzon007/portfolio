@@ -62,6 +62,11 @@ const experience = {
 
   items: [
     {
+      company: "AIESEC in India",
+      position: "Product Consultant",
+      duration: "2025-present",
+    },
+    {
       company: "AIESEC in Jalandhar",
       position: "Head of Incoming Corporate & Teaching Sector",
       duration: "2025-present",
@@ -81,18 +86,18 @@ const experience = {
 
 const education = {
   icon: "/assets/resume/badge.svg",
-  title: "My experience",
+  title: "My Education",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia aspernatur ipsam debitis omnis.",
+    "Here you will find my Educational Background",
 
   items: [
     {
-      institution: "LPU",
+      institution: "Lovely Professional University",
       degree: "Bachelors",
       duration: "2022-present",
     },
     {
-      institution: "ISD",
+      institution: "Indian School Darsait",
       degree: "High School",
       duration: "2022-present",
     },
@@ -102,7 +107,7 @@ const education = {
 const skills = {
   title: "My Skills",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia aspernatur ipsam debitis omnis.",
+    "Here you will find my technical skills",
 
   skillList: [
     {
