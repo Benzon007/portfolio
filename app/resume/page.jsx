@@ -16,7 +16,7 @@ import { SiTailwindcss, SiNextdotjs } from "react-icons/si";
 const about = {
   title: "About me",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia aspernatur ipsam debitis omnis.",
+    "Here you get to know about my personal information",
 
   info: [
     {
@@ -26,10 +26,6 @@ const about = {
     {
       fieldName: "Phone",
       fieldvalue: "+91 8714535642",
-    },
-    {
-      fieldName: "Experience",
-      fieldvalue: "2+ years",
     },
     {
       fieldName: "Nationality",
